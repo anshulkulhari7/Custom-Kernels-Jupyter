@@ -1,0 +1,1 @@
+I am hosting this file on the server.And the client will receive it.
