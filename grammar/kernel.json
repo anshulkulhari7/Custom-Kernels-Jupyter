@@ -1,0 +1,8 @@
+{
+ "argv": ["python", "-m",
+          "grammarkernel", "-f",
+          "{connection_file}"],
+ "display_name": "Grammar",
+ "name": "Grammar",
+ "language": "python"
+}

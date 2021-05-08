@@ -1,0 +1,8 @@
+{
+ "argv": ["python", "-m",
+          "plag_finder", "-f",
+          "{connection_file}"],
+ "display_name": "plag_finder",
+ "name": "plag_finder",
+ "language": "python"
+}
